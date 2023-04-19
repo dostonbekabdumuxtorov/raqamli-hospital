@@ -1,0 +1,87 @@
+.doctors {
+    padding:10px;
+    // border: 1px solid red;
+    
+    &__card {
+        width: 290.39px;
+        height: 554.86px;
+        background: rgba(255, 255, 255, 0.002);
+        box-shadow: 0px 0px 4px 1px #E5E9F6;
+        border-radius: 20px;
+    }
+
+    &__card-img {
+        object-fit: cover;
+        width: 100%;
+    }
+
+    &__title {
+        width: 100%;
+        height: 245px;
+        padding: 10px 10px;
+    }
+
+    &__title-link {
+        width: 100%;
+        display: inline-block;
+    }
+
+    &__title-link2 {
+        display: flex;
+        align-items: center;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 22px;
+        margin-top: 23px;
+        color: #00B288;
+    }
+
+    &__name {
+        display: flex;
+        align-items: center;
+        font-weight: 700;
+        font-size: 21px;
+        line-height: 30px;
+        color: #000000;
+    }
+
+    &__bottom {
+        height: 120px;
+        display: flex;
+        align-items: end;
+        justify-content: center;
+    }
+
+    &__bottom-link {
+        display: flex;
+        align-items: center;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 18px;
+        padding: 14px 86.01px 14px 85.38px;
+        height: 46px;
+        top: 498.86px;
+        border-radius: 8px;
+        background: #FFFFFF;
+        border: 1px solid #00B288;
+        color: #00B288;
+
+        &:hover {
+            background-color: #00B288;
+            color: #FFFFFF;
+            transition: 1s ease;
+            -webkit-transition: 1s ease;
+            -moz-transition: 1s ease;
+            -ms-transition: 1s ease;
+            -o-transition: 1s ease;
+        }
+
+        &:active {
+            background-color: #00B288;
+            color: #FFFFFF;
+            opacity: 0.7;
+
+        }
+    }
+}

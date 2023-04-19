@@ -1,0 +1,32 @@
+export const ServiceData = [
+    {
+        id:0,
+        title:"Ginekologiya",
+        img:"https://primehospital.az/wp-content/uploads/2020/02/DSC3394aa.jpg"
+    },
+    {
+        id:1,
+        title:"Urologiya",
+        img:"https://www.bharathirajaahospitals.com/assets/images/urology.jpg"
+    },
+    {
+        id:2,
+        title:"Stomotologiya",
+        img:"https://storage.kun.uz/source/uploads/20180104/pplkl7.jpg"
+    },
+    {
+        id:3,
+        title:"Kompyuter Tomografiyasi",
+        img:"https://conceptsall.com/wp-content/uploads/2022/11/Uses-of-computer-in-hospital-1-1024x578.png"
+    },
+    {
+        id:4,
+        title:"Xirurgiya",
+        img:"https://yuz.uz/imageproxy/1200x/https://yuz.uz/file/news/b06ce9e1aaa1b4bd2a884fae88c65c8e.jpg"
+    },
+    {
+        id:5,
+        title:"Proktologiya",
+        img:"https://gmed.uz/backend/web/uploads/service-category/16387863955651.jpg"
+    }
+]

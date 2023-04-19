@@ -1,0 +1,95 @@
+/**This is a Footer style */
+.footer {
+    margin-top: 100px;
+    height: 320px;
+    padding-left: 230px;
+    padding-right: 311.12px;
+    background-color: #00B288;
+
+    &__container {
+        display: flex;
+        flex-direction: column;
+    }
+
+    &__top {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    &__top-content {
+        display: flex;
+        justify-content: space-between;
+        width: 100%;
+    }
+
+    /*This is a Footer contact style*/
+
+    &__top-contact {
+        line-height: 30px;
+        margin-top: 39px;
+
+        .active {
+            font-size: 15px;
+        }
+
+        .footer__top-title {
+            font-weight: 400;
+            font-size: 14px;
+            color: #ffffff;
+        }
+
+        .footer__top-description {
+            font-weight: 400;
+            font-size: 22px;
+            color: #ffffff;
+        }
+    }
+
+    &__nav {
+        display: flex;
+        justify-content: center;
+        margin-top: 49px;
+        margin-bottom: 34px;
+    }
+
+    &__list {
+        display: flex;
+        font-weight: 400;
+        font-size: 15px;
+        gap: 30px;
+    }
+
+    &__item-link {
+        color: #ffffff;
+    }
+
+
+    &__bottom {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        margin:31px 0px;
+        padding-bottom:31px ;
+
+    }
+
+
+    &__hr {
+        position: absolute;
+        top: 10;
+        left: 0;
+        width: 100%;
+        border: 1px solid rgba(139, 131, 131, 0.21);
+        z-index: 999 !important;
+    }
+
+    &__bottom-text {
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 20px;
+        color: #ffffff;
+    }
+}
+
+/*Kontentlarni notog'ri tuzgan va strukturasini notog'ri yozgan bo'lsam ming bor uzur */
