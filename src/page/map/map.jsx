@@ -5,9 +5,9 @@ import "./map.scss";
 import Mapp from "./Map/Map";
 import { useState } from "react";
 import Star from "../../assets/svg/star4.svg";
-
+import { clinics } from "../../data/clinic";
 function Map() {
-    const [Cards, setCards] = useState([])
+    const [Cards, setCards] = useState(clinics)
 
     document.body.style.overflow = 'hidden'
 
@@ -26,7 +26,7 @@ function Map() {
                         Cards.length === 0 ? <ClinicsCard /> :
                             Cards.map((item) => (
                                 <NavLink to={"/clinics-inner"}>
-                                    <div className="clinics__card">
+                                    <div className="clinics__card" style={{marginTop:10}}>
                                         <img
                                             src={item.img}
                                             alt="This is a clinic card img"
@@ -34,6 +34,7 @@ function Map() {
                                         />
                                         <div className="clinics__bottom">
                                             <h2 className="clinics__bottom-title">{item?.name}</h2>
+                                            <p style={{color:"white",textAlign:"start"}}>{item.addres}</p>
                                             <div className="clinics__bottom-item">
                                                 <a href="#" className="clinics__bottom-link">
                                                     Batafsil

@@ -64,7 +64,7 @@ const Map = ({setCards,Cards}) => {
                     src={place.img}
                     alt={place.name}
                   />
-                  <Rating size="small" value={place.rating} readOnly />
+                  <Rating size="small" value={1} readOnly />
                 </Paper>
               )
             }
