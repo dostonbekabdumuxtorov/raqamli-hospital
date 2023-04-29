@@ -22,7 +22,7 @@ const Map = ({ setCards, Cards }) => {
   }
 
   return (
-    <div style={{ width: "100%", height: "100vh", border: "2px solid red" }}>
+    <div style={{ width: "100%", height: "100vh", }}>
       <GoogleMapReact
         style={{ width: "500px", height: "500px" }}
         bootstrapURLKeys={{ key: "AIzaSyB8NHCF-5fMix0w2363RhC3V4vcyw8SHSM" }}

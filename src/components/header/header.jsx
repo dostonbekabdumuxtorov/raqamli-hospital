@@ -57,9 +57,9 @@ function Header() {
                                 <li className="header__item">
                                     <NavLink to={'/blog'} className="header__item-link">Yangiliklar</NavLink>
                                 </li>
-                                <li className="header__item">
+                                {/* <li className="header__item">
                                     <NavLink to={'/intelligence'} className="header__item-link">Sun'iy Intellekt</NavLink>
-                                </li>
+                                </li> */}
                             </ul>
                         </nav>
                     </div>
