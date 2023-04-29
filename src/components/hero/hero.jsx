@@ -10,6 +10,7 @@ function Hero() {
             <section className="hero">
                 <div className="hero__left">
                     <h1 className="hero__left-title">Raqamli shifoxona</h1>
+                    <h2 className="hero__left-clinic">Bizda 15-ta klinika mavjud</h2>
                     <p className="hero__left-desc">Bizning raqamli shifoxonamizga xush kelibsiz. Shaxsiylashtirilgan davolash rejalari va real vaqtda yangilanishlar bilan sog'liqni saqlash bo'yicha sayohatni biz bilan boshdan kechiring.</p>
                     <Button className="hero__left-btn">Batafsil</Button>
                 </div>

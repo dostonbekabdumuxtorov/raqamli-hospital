@@ -9,7 +9,7 @@ export const clinics = [{
     workTime: "8:00 dan 20:00 gacha ",
     img: "https://avatars.mds.yandex.net/get-altay/1938975/2a0000016f22a24b72d0eb253096b692b2a0/L_height",
     rating: 5,
-    latitude:40.759197, 
+    latitude:40.759197,
     longitude:72.364559,
 
     clinicSection: [{
@@ -78,7 +78,7 @@ export const clinics = [{
     workTime: "7:00 dan 19:00 gacha ",
     img: "https://avatars.mds.yandex.net/get-altay/5236391/2a0000017b71aae053b6cff39667555e9386/L_height",
     rating: 4,
-    latitude:40.757462, 
+    latitude:40.757462,
     longitude: 72.367298,
     clinicSection: [{
         operatsiya: "https://avatars.mds.yandex.net/i?id=17eab2a054b2149cd00a009a6044de88_l-4016799-images-thumbs&ref=rim&n=13&w=1080&h=1080",
