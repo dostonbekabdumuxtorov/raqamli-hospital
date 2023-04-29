@@ -25,7 +25,6 @@ function App() {
       behavior:"auto"
     });
   }, [location.pathname])
-  
   document.body.style = 'auto'
 
   return (
