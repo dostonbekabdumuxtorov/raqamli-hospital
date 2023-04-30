@@ -69,7 +69,7 @@ export const clinics = [{
 },
 {
     id: 2,
-    name: "So'glom turmush",
+    name: "Sog'lom turmush",
     addres: "Andijon Milliy tiklanish ko'chasi 27-uy",
     tel: "+998 93 780 50 97",
     social: `Instagram ,Telegram ,Facebook`,

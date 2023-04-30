@@ -1,6 +1,7 @@
 import './services-card.scss'
 import cardImg from "../../assets/img/napr1.png"
 import cardIcon from "../../assets/img/urologiya-icon.png"
+import medic_icon from"../../assets/svg/Rectangle_305.png.svg"
 import cardDecor from "../../assets/img/decor.png"
 import { NavLink } from 'react-router-dom';
 import { ServiceData } from '../../data/service';
@@ -21,7 +22,7 @@ function ServicesCard() {
                                     <div className="card__text">
                                         <p>Batafsil</p>
                                         <img className='decor' src={cardDecor} alt="decor" />
-                                        <img className='icon' src={cardIcon} alt="Icon" />
+                                        <img className='icon' src={medic_icon} alt="Icon" width={40} height={50} style={{marginRight:"10px"}}/>
                                     </div>
                                 </div>
                             </div>

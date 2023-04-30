@@ -72,7 +72,17 @@
         font-weight: 400;
         font-size: 18px;
         color: #FFFFFF;
-        padding-bottom: 4px;
+        padding-bottom: 3px;
+        transition: .4s ease;
+        -webkit-transition: .4s ease;
+        -moz-transition: .4s ease;
+        -ms-transition: .4s ease;
+        -o-transition: .4s ease;
+
+        &:hover {
+            color: rgb(90 90 90);
+            border-bottom: 1px solid rgb(90 90 90);
+        }
     }
 
     &__statistic {
@@ -80,7 +90,7 @@
         align-items: center;
         justify-content: center;
         position: absolute;
-        top: 177px;
+        top: 178px;
         width: 138px;
         height: 28px;
         left: 230px;
@@ -89,12 +99,14 @@
         border-radius: 20px;
 
     }
-    &__statistic-links{
+
+    &__statistic-links {
         display: flex;
         justify-content: center;
         align-items: center;
     }
-    &__statistic-img{
-        margin-left: 4px  ;
+
+    &__statistic-img {
+        margin-left: 4px;
     }
 }

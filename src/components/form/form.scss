@@ -1,7 +1,7 @@
 .login {
     opacity: 1;
     pointer-events: none;
-    z-index: 11111111;
+    z-index: 11111111 !important;
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -61,7 +61,6 @@
         outline: none;
         border: 1px solid rgba(128, 128, 128, 0.7);
         transition: all 1s ease;
-
         &:focus {
             border: 1px solid #00B288;
         }

@@ -1,7 +1,5 @@
 .doctors {
-    padding:10px;
-    // border: 1px solid red;
-    
+    padding:10px ;
     &__card {
         width: 290.39px;
         height: 554.86px;
@@ -13,7 +11,12 @@
     &__card-img {
         object-fit: cover;
         width: 100%;
-    }
+        border-radius: 10px 10px 0px 0px;
+        -webkit-border-radius: 10px 10px 0px 0px;
+        -moz-border-radius: 10px 10px 0px 0px;
+        -ms-border-radius: 10px 10px 0px 0px;
+        -o-border-radius: 10px 10px 0px 0px;
+}
 
     &__title {
         width: 100%;
@@ -56,6 +59,7 @@
     &__bottom-link {
         display: flex;
         align-items: center;
+        justify-content: center;
         font-weight: 400;
         font-size: 18px;
         line-height: 18px;
@@ -66,6 +70,7 @@
         background: #FFFFFF;
         border: 1px solid #00B288;
         color: #00B288;
+        cursor: pointer;
 
         &:hover {
             background-color: #00B288;
@@ -75,7 +80,7 @@
             -moz-transition: 1s ease;
             -ms-transition: 1s ease;
             -o-transition: 1s ease;
-        }
+}
 
         &:active {
             background-color: #00B288;

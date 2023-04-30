@@ -11,7 +11,7 @@ export const ServiceData = [
     },
     {
         id:2,
-        title:"Stomotologiya",
+        title:"Stomatologiya",
         img:"https://storage.kun.uz/source/uploads/20180104/pplkl7.jpg"
     },
     {

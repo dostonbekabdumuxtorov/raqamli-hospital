@@ -19,10 +19,10 @@ function ClinicsCard() {
                       alt="This is a clinic card img"
                       className="clinics__top-img"
                     />
-                <div className="clinics__bottom">
+                <div className="clinics__bottom" style={{paddingTop:"10px"}}>
                   <h2 className="clinics__bottom-title">{item?.name}</h2>
                   <div className="clinics__bottom-item">
-                    <a href="#" className="clinics__bottom-link">
+                    <a href="#" className="clinics__bottom-link" target="_blank">
                     Batafsil
                     </a>
                   </div>

@@ -33,7 +33,7 @@ function App() {
       <Hero />
       <Search />
       <Container>
-        <h2 className="main-title" style={{ margin: '45px 0' }}>Klinikalar</h2>
+        <h2 className="main-title" style={{ margin: '45px 0'}}>Klinikalar</h2>
       </Container>
       <Container>
         <Clinics />

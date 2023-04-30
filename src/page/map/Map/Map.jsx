@@ -10,8 +10,6 @@ const Map = ({ setCards, Cards }) => {
   });
   const [bounds, setBounds] = useState({});
   const [isMobile, setisMobile] = useState(false);
-  
-  
 
   function innerme(id) {
     let newarr = clinics.filter((item) => item.id == id * 1);
@@ -20,7 +18,7 @@ const Map = ({ setCards, Cards }) => {
   }
 
   return (
-    <div style={{ width: "100%", height: "100vh", }}>
+    <div style={{ width: "100%", height: "100vh" }}>
       <GoogleMapReact
         style={{ width: "500px", height: "500px" }}
         bootstrapURLKeys={{ key: "AIzaSyB8NHCF-5fMix0w2363RhC3V4vcyw8SHSM" }}
@@ -49,27 +47,29 @@ const Map = ({ setCards, Cards }) => {
             key={i}
             onClick={() => innerme(place.id)}
           >
-
-            {
-              isMobile ? (
-                <LocationOnOutlinedIcon color="primary" fontSize="large" />
-              ) : (
-                <Paper className='paper' elevation={3} style={{
-                  padding: '10px', display: 'flex', flexDirection: 'column', justifyContent: 'center', width: '100px'
-                }}>
-                  <p variant="subtitle2" >
-                    {place.name}
-                  </p>
-                  <img
-                    style={{ width: "100%" ,margin:"10px 0px"}}
-                    src={place.img}
-                    alt={place.name}
-                  />
-                  <Rating size="small" value={1} readOnly />
-                </Paper>
-              )
-            }
-
+            {isMobile ? (
+              <LocationOnOutlinedIcon color="primary" fontSize="large" />
+            ) : (
+              <Paper
+                className="paper"
+                elevation={3}
+                style={{
+                  padding: "10px",
+                  display: "flex",
+                  flexDirection: "column",
+                  justifyContent: "center",
+                  width: "100px",
+                }}
+              >
+                <p variant="subtitle2">{place.name}</p>
+                <img
+                  style={{ width: "100%", margin: "10px 0px" }}
+                  src={place.img}
+                  alt={place.name}
+                />
+                <Rating size="small" value={place.rating} readOnly />
+              </Paper>
+            )}
           </Button>
         ))}
       </GoogleMapReact>

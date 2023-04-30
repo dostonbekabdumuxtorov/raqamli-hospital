@@ -146,7 +146,7 @@ export const clinicData = [
         number: "+998 97 992 11 11"
     }, {
         id: 10,
-        name: "Kardio Nefrologiya",
+        name: "Kardio Nevrologiya",
         img: 'https://avatars.mds.yandex.net/get-altay/1007082/2a00000186263d55d19c30fbf2f3a3068fea/L_height',
         addres: "Andijon Abdurauf Fitrat ko'chasi ",
         number: "+998 94 955 44 88"

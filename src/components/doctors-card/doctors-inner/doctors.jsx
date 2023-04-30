@@ -74,7 +74,7 @@ function Doctors() {
             </div>
             <div className="doctor__right">
               <h3 className="doctor__right-title">Boshlang'ich narxi:</h3>
-              <h2 className="doctor__right-price">121 000 so'm</h2>
+              <h2 className="doctor__right-price">200 000 so'm</h2>
               <a href="#" className="doctor__right-btn">
                 Qabulga yozilish
               </a>
