@@ -21,7 +21,7 @@ export const clinics = [{
         onkologiya: "https://img.freepik.com/premium-photo/confident-female-doctor-oncology-in-magnetic-resonance_283617-1620.jpg",
         pulmonologiya: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToj01bHK0xywB7bIy31x83Hkm9nx6dYIb8qrUjdq6aQZJyt3bUd9X66ZQHU9ZoiaggjQA&usqp=CAU",
     }],
-    ClinicRooms: [{
+    ClinicRooms11: [{
         img1: "https://avatars.mds.yandex.net/i?id=b724ec2728c1677bed9ba86848ed968535b2f297-5403234-images-thumbs&n=13",
         img2: "https://avatars.mds.yandex.net/get-altay/5491685/2a0000017d5bddc8c2ad4dfc0ade4dcc92b8/XXXL",
         img3: "https://avatars.mds.yandex.net/get-altay/1974402/2a0000016c98e41b5b7c8e854177df81f162/XXXL",
@@ -89,7 +89,7 @@ export const clinics = [{
         onkologiya: "https://static7.depositphotos.com/1194063/684/i/600/depositphotos_6843166-stock-photo-medical-exam.jpg",
         pulmonologiya: "https://aptstore.ru/upload/iblock/f90/f903a1d349d31fdccdec59f5d6af9c22.jpg",
     }],
-    ClinicRooms: [{
+    ClinicRooms11: [{
         img1: "https://avatars.mds.yandex.net/i?id=d4915b45fa26c9ded3dcf2345dd853bf34a3ff82-7662303-images-thumbs&n=13",
         img2: "https://avatars.mds.yandex.net/i?id=f8c6f688ef46b9e85aee7655e9573582-4571652-images-thumbs&n=13",
         img3: "https://avatars.mds.yandex.net/i?id=7efce51b1352ab9724d23891e3fa89e958a48e48-7552332-images-thumbs&n=13",
@@ -156,7 +156,7 @@ export const clinics = [{
         onkologiya: "https://st3.depositphotos.com/9880800/18423/i/450/depositphotos_184231854-stock-photo-happy-family-spending-time-together.jpg",
         pulmonologiya: "https://i.pinimg.com/originals/86/f6/a3/86f6a3a3300b040184c0b32a61a5a025.jpg",
     }],
-    ClinicRooms: [{
+    ClinicRooms11: [{
         img1: "https://pbs.twimg.com/media/Ey6tmsQWYAAOg7X.jpg",
         img2: "https://cdn.uza.uz/2020/10/05/05/08/adSAh3kskRinDHFj08o3Qf1uKORCgcJM_normal.jpg",
         img3: "https://cdn.uza.uz/2021/08/19/12/34/1AezA9J3KUxeA0hTDqrBpJeGGNJwDSIB_normal.jpg",
@@ -225,7 +225,7 @@ export const clinics = [{
         onkologiya: "https://static7.depositphotos.com/1194063/684/i/600/depositphotos_6843166-stock-photo-medical-exam.jpg",
         pulmonologiya: "https://aptstore.ru/upload/iblock/f90/f903a1d349d31fdccdec59f5d6af9c22.jpg",
     }],
-    ClinicRooms: [{
+    ClinicRooms11: [{
         img1: "https://avatars.mds.yandex.net/i?id=d4915b45fa26c9ded3dcf2345dd853bf34a3ff82-7662303-images-thumbs&n=13",
         img2: "https://avatars.mds.yandex.net/i?id=f8c6f688ef46b9e85aee7655e9573582-4571652-images-thumbs&n=13",
         img3: "https://avatars.mds.yandex.net/i?id=7efce51b1352ab9724d23891e3fa89e958a48e48-7552332-images-thumbs&n=13",
@@ -294,7 +294,7 @@ export const clinics = [{
         onkologiya: "https://static7.depositphotos.com/1194063/684/i/600/depositphotos_6843166-stock-photo-medical-exam.jpg",
         pulmonologiya: "https://aptstore.ru/upload/iblock/f90/f903a1d349d31fdccdec59f5d6af9c22.jpg",
     }],
-    ClinicRooms: [{
+    ClinicRooms11: [{
         img1: "https://avatars.mds.yandex.net/i?id=d4915b45fa26c9ded3dcf2345dd853bf34a3ff82-7662303-images-thumbs&n=13",
         img2: "https://avatars.mds.yandex.net/i?id=f8c6f688ef46b9e85aee7655e9573582-4571652-images-thumbs&n=13",
         img3: "https://avatars.mds.yandex.net/i?id=7efce51b1352ab9724d23891e3fa89e958a48e48-7552332-images-thumbs&n=13",
@@ -354,7 +354,7 @@ export const clinics = [{
         onkologiya: "https://img.freepik.com/premium-photo/confident-female-doctor-oncology-in-magnetic-resonance_283617-1620.jpg",
         pulmonologiya: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToj01bHK0xywB7bIy31x83Hkm9nx6dYIb8qrUjdq6aQZJyt3bUd9X66ZQHU9ZoiaggjQA&usqp=CAU",
     }],
-    ClinicRooms: [{
+    ClinicRooms11: [{
         img1: "https://avatars.mds.yandex.net/i?id=b724ec2728c1677bed9ba86848ed968535b2f297-5403234-images-thumbs&n=13",
         img2: "https://avatars.mds.yandex.net/get-altay/5491685/2a0000017d5bddc8c2ad4dfc0ade4dcc92b8/XXXL",
         img3: "https://avatars.mds.yandex.net/get-altay/1974402/2a0000016c98e41b5b7c8e854177df81f162/XXXL",
@@ -420,7 +420,7 @@ export const clinics = [{
         onkologiya: "https://img.freepik.com/premium-photo/confident-female-doctor-oncology-in-magnetic-resonance_283617-1620.jpg",
         pulmonologiya: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToj01bHK0xywB7bIy31x83Hkm9nx6dYIb8qrUjdq6aQZJyt3bUd9X66ZQHU9ZoiaggjQA&usqp=CAU",
     }],
-    ClinicRooms: [{
+    ClinicRooms11: [{
         img1: "https://avatars.mds.yandex.net/i?id=b724ec2728c1677bed9ba86848ed968535b2f297-5403234-images-thumbs&n=13",
         img2: "https://avatars.mds.yandex.net/get-altay/5491685/2a0000017d5bddc8c2ad4dfc0ade4dcc92b8/XXXL",
         img3: "https://avatars.mds.yandex.net/get-altay/1974402/2a0000016c98e41b5b7c8e854177df81f162/XXXL",
@@ -487,7 +487,7 @@ export const clinics = [{
         onkologiya: "https://img.freepik.com/premium-photo/confident-female-doctor-oncology-in-magnetic-resonance_283617-1620.jpg",
         pulmonologiya: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToj01bHK0xywB7bIy31x83Hkm9nx6dYIb8qrUjdq6aQZJyt3bUd9X66ZQHU9ZoiaggjQA&usqp=CAU",
     }],
-    ClinicRooms: [{
+    ClinicRooms11: [{
         img1: "https://avatars.mds.yandex.net/i?id=b724ec2728c1677bed9ba86848ed968535b2f297-5403234-images-thumbs&n=13",
         img2: "https://avatars.mds.yandex.net/get-altay/5491685/2a0000017d5bddc8c2ad4dfc0ade4dcc92b8/XXXL",
         img3: "https://avatars.mds.yandex.net/get-altay/1974402/2a0000016c98e41b5b7c8e854177df81f162/XXXL",
@@ -554,7 +554,7 @@ export const clinics = [{
         onkologiya: "https://img.freepik.com/premium-photo/confident-female-doctor-oncology-in-magnetic-resonance_283617-1620.jpg",
         pulmonologiya: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToj01bHK0xywB7bIy31x83Hkm9nx6dYIb8qrUjdq6aQZJyt3bUd9X66ZQHU9ZoiaggjQA&usqp=CAU",
     }],
-    ClinicRooms: [{
+    ClinicRooms11: [{
         img1: "https://avatars.mds.yandex.net/i?id=b724ec2728c1677bed9ba86848ed968535b2f297-5403234-images-thumbs&n=13",
         img2: "https://avatars.mds.yandex.net/get-altay/5491685/2a0000017d5bddc8c2ad4dfc0ade4dcc92b8/XXXL",
         img3: "https://avatars.mds.yandex.net/get-altay/1974402/2a0000016c98e41b5b7c8e854177df81f162/XXXL",
@@ -620,7 +620,7 @@ export const clinics = [{
         onkologiya: "https://static7.depositphotos.com/1194063/684/i/600/depositphotos_6843166-stock-photo-medical-exam.jpg",
         pulmonologiya: "https://aptstore.ru/upload/iblock/f90/f903a1d349d31fdccdec59f5d6af9c22.jpg",
     }],
-    ClinicRooms: [{
+    ClinicRooms11: [{
         img1: "https://avatars.mds.yandex.net/i?id=d4915b45fa26c9ded3dcf2345dd853bf34a3ff82-7662303-images-thumbs&n=13",
         img2: "https://avatars.mds.yandex.net/i?id=f8c6f688ef46b9e85aee7655e9573582-4571652-images-thumbs&n=13",
         img3: "https://avatars.mds.yandex.net/i?id=7efce51b1352ab9724d23891e3fa89e958a48e48-7552332-images-thumbs&n=13",
@@ -686,7 +686,7 @@ export const clinics = [{
         onkologiya: "https://img.freepik.com/premium-photo/confident-female-doctor-oncology-in-magnetic-resonance_283617-1620.jpg",
         pulmonologiya: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToj01bHK0xywB7bIy31x83Hkm9nx6dYIb8qrUjdq6aQZJyt3bUd9X66ZQHU9ZoiaggjQA&usqp=CAU",
     }],
-    ClinicRooms: [{
+    ClinicRooms11: [{
         img1: "https://avatars.mds.yandex.net/i?id=b724ec2728c1677bed9ba86848ed968535b2f297-5403234-images-thumbs&n=13",
         img2: "https://avatars.mds.yandex.net/get-altay/5491685/2a0000017d5bddc8c2ad4dfc0ade4dcc92b8/XXXL",
         img3: "https://avatars.mds.yandex.net/get-altay/1974402/2a0000016c98e41b5b7c8e854177df81f162/XXXL",
@@ -753,7 +753,7 @@ export const clinics = [{
         onkologiya: "https://img.freepik.com/premium-photo/confident-female-doctor-oncology-in-magnetic-resonance_283617-1620.jpg",
         pulmonologiya: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToj01bHK0xywB7bIy31x83Hkm9nx6dYIb8qrUjdq6aQZJyt3bUd9X66ZQHU9ZoiaggjQA&usqp=CAU",
     }],
-    ClinicRooms: [{
+    ClinicRooms11: [{
         img1: "https://avatars.mds.yandex.net/i?id=b724ec2728c1677bed9ba86848ed968535b2f297-5403234-images-thumbs&n=13",
         img2: "https://avatars.mds.yandex.net/get-altay/5491685/2a0000017d5bddc8c2ad4dfc0ade4dcc92b8/XXXL",
         img3: "https://avatars.mds.yandex.net/get-altay/1974402/2a0000016c98e41b5b7c8e854177df81f162/XXXL",
@@ -819,7 +819,7 @@ export const clinics = [{
         onkologiya: "https://static7.depositphotos.com/1194063/684/i/600/depositphotos_6843166-stock-photo-medical-exam.jpg",
         pulmonologiya: "https://aptstore.ru/upload/iblock/f90/f903a1d349d31fdccdec59f5d6af9c22.jpg",
     }],
-    ClinicRooms: [{
+    ClinicRooms11: [{
         img1: "https://avatars.mds.yandex.net/i?id=d4915b45fa26c9ded3dcf2345dd853bf34a3ff82-7662303-images-thumbs&n=13",
         img2: "https://avatars.mds.yandex.net/i?id=f8c6f688ef46b9e85aee7655e9573582-4571652-images-thumbs&n=13",
         img3: "https://avatars.mds.yandex.net/i?id=7efce51b1352ab9724d23891e3fa89e958a48e48-7552332-images-thumbs&n=13",
@@ -885,7 +885,7 @@ export const clinics = [{
         onkologiya: "https://img.freepik.com/premium-photo/confident-female-doctor-oncology-in-magnetic-resonance_283617-1620.jpg",
         pulmonologiya: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToj01bHK0xywB7bIy31x83Hkm9nx6dYIb8qrUjdq6aQZJyt3bUd9X66ZQHU9ZoiaggjQA&usqp=CAU",
     }],
-    ClinicRooms: [{
+    ClinicRooms11: [{
         img1: "https://avatars.mds.yandex.net/i?id=b724ec2728c1677bed9ba86848ed968535b2f297-5403234-images-thumbs&n=13",
         img2: "https://avatars.mds.yandex.net/get-altay/5491685/2a0000017d5bddc8c2ad4dfc0ade4dcc92b8/XXXL",
         img3: "https://avatars.mds.yandex.net/get-altay/1974402/2a0000016c98e41b5b7c8e854177df81f162/XXXL",
@@ -951,7 +951,7 @@ export const clinics = [{
         onkologiya: "https://img.freepik.com/premium-photo/confident-female-doctor-oncology-in-magnetic-resonance_283617-1620.jpg",
         pulmonologiya: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToj01bHK0xywB7bIy31x83Hkm9nx6dYIb8qrUjdq6aQZJyt3bUd9X66ZQHU9ZoiaggjQA&usqp=CAU",
     }],
-    ClinicRooms: [{
+    ClinicRooms11: [{
         img1: "https://avatars.mds.yandex.net/i?id=b724ec2728c1677bed9ba86848ed968535b2f297-5403234-images-thumbs&n=13",
         img2: "https://avatars.mds.yandex.net/get-altay/5491685/2a0000017d5bddc8c2ad4dfc0ade4dcc92b8/XXXL",
         img3: "https://avatars.mds.yandex.net/get-altay/1974402/2a0000016c98e41b5b7c8e854177df81f162/XXXL",
