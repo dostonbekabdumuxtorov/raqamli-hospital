@@ -35,7 +35,7 @@ function Map() {
 
     function ToDetail(item) {
         navigate('/detail',{state:item})
-        window.location.reload()
+        
     }
 
     return (
