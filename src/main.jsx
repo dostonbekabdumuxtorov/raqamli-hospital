@@ -13,6 +13,7 @@ import Blog from './page/blog/blog';
 import ClinicsInner from './components/doctors-card/doctors-inner/doctors';
 import ClinicsInner1 from './components/clinics-card/clinics-inner/clinics-inner';
 import Map from './page/map/map';
+import Detail from './page/Clinicdetail/Detail';
 
 const router = createBrowserRouter([
   {
@@ -51,6 +52,10 @@ const router = createBrowserRouter([
     path: "/map",
     element: <Map />,
   },
+  {
+    path:"/detail",
+    element:<Detail />
+  }
 ]);
 
 ReactDOM.createRoot(document.getElementById('root')).render(

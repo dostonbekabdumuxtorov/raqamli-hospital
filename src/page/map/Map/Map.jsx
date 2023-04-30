@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import GoogleMapReact from "google-map-react";
 import { Button, Paper, Rating } from "@mui/material";
 import { clinics } from "../../../data/clinic";
-
+import { mapOptions } from "./option";
 const Map = ({ setCards, Cards }) => {
   const [coordinates, setcoordinates] = useState({
     lat: 40.759929,
@@ -10,10 +10,8 @@ const Map = ({ setCards, Cards }) => {
   });
   const [bounds, setBounds] = useState({});
   const [isMobile, setisMobile] = useState(false);
-
-  function name(params) {
-    setcoordinates({ lng: 40.759929, lat: 72.358453 });
-  }
+  
+  
 
   function innerme(id) {
     let newarr = clinics.filter((item) => item.id == id * 1);
@@ -30,7 +28,7 @@ const Map = ({ setCards, Cards }) => {
         center={coordinates}
         defaultZoom={16}
         margin={[50, 50, 50, 50]}
-        options={""}
+        options={mapOptions}
         onChange={(e) => {
           setcoordinates({ lat: e.center.lat, lng: e.center.lng });
           setBounds({ ne: e.marginBounds.ne, sw: e.marginBounds.sw });
