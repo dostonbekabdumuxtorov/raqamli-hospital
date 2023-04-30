@@ -38,13 +38,35 @@
         border: 1px solid #00B288 !important;
         border-radius: 6px !important;
         cursor: pointer !important;
-
+        margin-top: 30px !important;
         &:hover {
             opacity: 0.8 !important;
         }
 
         &:active {
             opacity: 0.6;
+        }
+    }
+    .mainbox{
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        
+        gap: 15px;
+        margin-top: 14px;
+        margin-bottom: 10px;
+        svg{
+            font-size: 50px;
+            color: #00ABAA;
+            margin-left: -8px;
+        }
+        h2{
+            color: #00ABAA;
+            font-size: 27px;
+        }
+        p{
+            margin-top: -5px;
+            font-size: 14px;
         }
     }
 }

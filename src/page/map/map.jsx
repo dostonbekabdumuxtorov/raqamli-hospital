@@ -87,7 +87,7 @@ function Map() {
                                             </div>
                                             <Accordion
                                                 style={{
-                                                    border:'none',
+                                                    
                                                     boxShadow:"none",
                                                     outline:"none",
                                                     backgroundColor:"#F6F6F8",
