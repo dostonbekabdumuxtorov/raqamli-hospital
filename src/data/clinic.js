@@ -21,12 +21,12 @@ export const clinics = [{
         onkologiya: "https://img.freepik.com/premium-photo/confident-female-doctor-oncology-in-magnetic-resonance_283617-1620.jpg",
         pulmonologiya: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToj01bHK0xywB7bIy31x83Hkm9nx6dYIb8qrUjdq6aQZJyt3bUd9X66ZQHU9ZoiaggjQA&usqp=CAU",
     }],
-    ClinicRooms11: [{
-        img1: "https://avatars.mds.yandex.net/i?id=b724ec2728c1677bed9ba86848ed968535b2f297-5403234-images-thumbs&n=13",
-        img2: "https://avatars.mds.yandex.net/get-altay/5491685/2a0000017d5bddc8c2ad4dfc0ade4dcc92b8/XXXL",
-        img3: "https://avatars.mds.yandex.net/get-altay/1974402/2a0000016c98e41b5b7c8e854177df81f162/XXXL",
-        img4: "https://avatars.mds.yandex.net/get-altay/4079915/2a00000178c47d93c08adb4396cc143b2482/XXL",
-        img5: "https://avatars.mds.yandex.net/i?id=9bff81f23c6fb50bff96e7c526b383e24d7c5f58-4079503-images-thumbs&n=13",
+    ClinicRooms: [{
+        img1: "https://pbs.twimg.com/media/Ey6tmsQWYAAOg7X.jpg",
+        img2: "https://cdn.uza.uz/2020/10/05/05/08/adSAh3kskRinDHFj08o3Qf1uKORCgcJM_normal.jpg",
+        img3: "https://cdn.uza.uz/2021/08/19/12/34/1AezA9J3KUxeA0hTDqrBpJeGGNJwDSIB_normal.jpg",
+        img4: "https://cdn.uza.uz/2022/06/06/17/46/RsbZE95fcZ1t7CNZPIScZ9ZWjLJz2v5H_normal.jpg",
+        img5: "https://avesta-news.kz/wp-content/uploads/2020/09/7cef84e7e50c13651e0dc53f31857c05_original.127509.jpeg",
     }],
     doctors: [
         {
@@ -89,12 +89,12 @@ export const clinics = [{
         onkologiya: "https://static7.depositphotos.com/1194063/684/i/600/depositphotos_6843166-stock-photo-medical-exam.jpg",
         pulmonologiya: "https://aptstore.ru/upload/iblock/f90/f903a1d349d31fdccdec59f5d6af9c22.jpg",
     }],
-    ClinicRooms11: [{
-        img1: "https://avatars.mds.yandex.net/i?id=d4915b45fa26c9ded3dcf2345dd853bf34a3ff82-7662303-images-thumbs&n=13",
-        img2: "https://avatars.mds.yandex.net/i?id=f8c6f688ef46b9e85aee7655e9573582-4571652-images-thumbs&n=13",
-        img3: "https://avatars.mds.yandex.net/i?id=7efce51b1352ab9724d23891e3fa89e958a48e48-7552332-images-thumbs&n=13",
-        img4: "https://mir-s3-cdn-cf.behance.net/project_modules/1400/7bbb4e85763217.5d8533f728d3d.jpg",
-        img5: "https://avatars.mds.yandex.net/i?id=76d4c10de0251a7bf8a89267112ec121-5425154-images-thumbs&n=13",
+    ClinicRooms: [{
+        img1: "https://pbs.twimg.com/media/Ey6tmsQWYAAOg7X.jpg",
+        img2: "https://cdn.uza.uz/2020/10/05/05/08/adSAh3kskRinDHFj08o3Qf1uKORCgcJM_normal.jpg",
+        img3: "https://cdn.uza.uz/2021/08/19/12/34/1AezA9J3KUxeA0hTDqrBpJeGGNJwDSIB_normal.jpg",
+        img4: "https://cdn.uza.uz/2022/06/06/17/46/RsbZE95fcZ1t7CNZPIScZ9ZWjLJz2v5H_normal.jpg",
+        img5: "https://avesta-news.kz/wp-content/uploads/2020/09/7cef84e7e50c13651e0dc53f31857c05_original.127509.jpeg",
     }],
     doctors: [{
         id: 6,
@@ -156,7 +156,7 @@ export const clinics = [{
         onkologiya: "https://st3.depositphotos.com/9880800/18423/i/450/depositphotos_184231854-stock-photo-happy-family-spending-time-together.jpg",
         pulmonologiya: "https://i.pinimg.com/originals/86/f6/a3/86f6a3a3300b040184c0b32a61a5a025.jpg",
     }],
-    ClinicRooms11: [{
+    ClinicRooms: [{
         img1: "https://pbs.twimg.com/media/Ey6tmsQWYAAOg7X.jpg",
         img2: "https://cdn.uza.uz/2020/10/05/05/08/adSAh3kskRinDHFj08o3Qf1uKORCgcJM_normal.jpg",
         img3: "https://cdn.uza.uz/2021/08/19/12/34/1AezA9J3KUxeA0hTDqrBpJeGGNJwDSIB_normal.jpg",
@@ -225,12 +225,13 @@ export const clinics = [{
         onkologiya: "https://static7.depositphotos.com/1194063/684/i/600/depositphotos_6843166-stock-photo-medical-exam.jpg",
         pulmonologiya: "https://aptstore.ru/upload/iblock/f90/f903a1d349d31fdccdec59f5d6af9c22.jpg",
     }],
-    ClinicRooms11: [{
-        img1: "https://avatars.mds.yandex.net/i?id=d4915b45fa26c9ded3dcf2345dd853bf34a3ff82-7662303-images-thumbs&n=13",
-        img2: "https://avatars.mds.yandex.net/i?id=f8c6f688ef46b9e85aee7655e9573582-4571652-images-thumbs&n=13",
-        img3: "https://avatars.mds.yandex.net/i?id=7efce51b1352ab9724d23891e3fa89e958a48e48-7552332-images-thumbs&n=13",
-        img4: "https://mir-s3-cdn-cf.behance.net/project_modules/1400/7bbb4e85763217.5d8533f728d3d.jpg",
-        img5: "https://avatars.mds.yandex.net/i?id=76d4c10de0251a7bf8a89267112ec121-5425154-images-thumbs&n=13",
+    ClinicRooms: [{
+        img1: "https://pbs.twimg.com/media/Ey6tmsQWYAAOg7X.jpg",
+        img6: "https://cdn.uza.uz/2022/06/06/17/46/RsbZE95fcZ1t7CNZPIScZ9ZWjLJz2v5H_normal.jpg",
+        img2: "https://cdn.uza.uz/2020/10/05/05/08/adSAh3kskRinDHFj08o3Qf1uKORCgcJM_normal.jpg",
+        img3: "https://cdn.uza.uz/2021/08/19/12/34/1AezA9J3KUxeA0hTDqrBpJeGGNJwDSIB_normal.jpg",
+        img4: "https://cdn.uza.uz/2022/06/06/17/46/RsbZE95fcZ1t7CNZPIScZ9ZWjLJz2v5H_normal.jpg",
+        img5: "https://avesta-news.kz/wp-content/uploads/2020/09/7cef84e7e50c13651e0dc53f31857c05_original.127509.jpeg",
     }],
     doctors: [{
         id: 16,
@@ -294,12 +295,14 @@ export const clinics = [{
         onkologiya: "https://static7.depositphotos.com/1194063/684/i/600/depositphotos_6843166-stock-photo-medical-exam.jpg",
         pulmonologiya: "https://aptstore.ru/upload/iblock/f90/f903a1d349d31fdccdec59f5d6af9c22.jpg",
     }],
-    ClinicRooms11: [{
-        img1: "https://avatars.mds.yandex.net/i?id=d4915b45fa26c9ded3dcf2345dd853bf34a3ff82-7662303-images-thumbs&n=13",
-        img2: "https://avatars.mds.yandex.net/i?id=f8c6f688ef46b9e85aee7655e9573582-4571652-images-thumbs&n=13",
-        img3: "https://avatars.mds.yandex.net/i?id=7efce51b1352ab9724d23891e3fa89e958a48e48-7552332-images-thumbs&n=13",
-        img4: "https://mir-s3-cdn-cf.behance.net/project_modules/1400/7bbb4e85763217.5d8533f728d3d.jpg",
-        img5: "https://avatars.mds.yandex.net/i?id=76d4c10de0251a7bf8a89267112ec121-5425154-images-thumbs&n=13",
+    ClinicRooms: [{
+        img1: "https://pbs.twimg.com/media/Ey6tmsQWYAAOg7X.jpg",
+        img6: "https://cdn.uza.uz/2022/06/06/17/46/RsbZE95fcZ1t7CNZPIScZ9ZWjLJz2v5H_normal.jpg",
+        img2: "https://cdn.uza.uz/2020/10/05/05/08/adSAh3kskRinDHFj08o3Qf1uKORCgcJM_normal.jpg",
+        img3: "https://cdn.uza.uz/2021/08/19/12/34/1AezA9J3KUxeA0hTDqrBpJeGGNJwDSIB_normal.jpg",
+        img4: "https://cdn.uza.uz/2022/06/06/17/46/RsbZE95fcZ1t7CNZPIScZ9ZWjLJz2v5H_normal.jpg",
+        img5: "https://avesta-news.kz/wp-content/uploads/2020/09/7cef84e7e50c13651e0dc53f31857c05_original.127509.jpeg",
+        img7: "https://cdn.uza.uz/2022/06/06/17/46/RsbZE95fcZ1t7CNZPIScZ9ZWjLJz2v5H_normal.jpg",
     }],
     doctors: [{
         id: 21,
@@ -354,12 +357,14 @@ export const clinics = [{
         onkologiya: "https://img.freepik.com/premium-photo/confident-female-doctor-oncology-in-magnetic-resonance_283617-1620.jpg",
         pulmonologiya: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToj01bHK0xywB7bIy31x83Hkm9nx6dYIb8qrUjdq6aQZJyt3bUd9X66ZQHU9ZoiaggjQA&usqp=CAU",
     }],
-    ClinicRooms11: [{
-        img1: "https://avatars.mds.yandex.net/i?id=b724ec2728c1677bed9ba86848ed968535b2f297-5403234-images-thumbs&n=13",
-        img2: "https://avatars.mds.yandex.net/get-altay/5491685/2a0000017d5bddc8c2ad4dfc0ade4dcc92b8/XXXL",
-        img3: "https://avatars.mds.yandex.net/get-altay/1974402/2a0000016c98e41b5b7c8e854177df81f162/XXXL",
-        img4: "https://avatars.mds.yandex.net/get-altay/4079915/2a00000178c47d93c08adb4396cc143b2482/XXL",
-        img5: "https://avatars.mds.yandex.net/i?id=9bff81f23c6fb50bff96e7c526b383e24d7c5f58-4079503-images-thumbs&n=13",
+    ClinicRooms: [{
+        img1: "https://pbs.twimg.com/media/Ey6tmsQWYAAOg7X.jpg",
+        img6: "https://cdn.uza.uz/2022/06/06/17/46/RsbZE95fcZ1t7CNZPIScZ9ZWjLJz2v5H_normal.jpg",
+        img2: "https://cdn.uza.uz/2020/10/05/05/08/adSAh3kskRinDHFj08o3Qf1uKORCgcJM_normal.jpg",
+        img3: "https://cdn.uza.uz/2021/08/19/12/34/1AezA9J3KUxeA0hTDqrBpJeGGNJwDSIB_normal.jpg",
+        img4: "https://cdn.uza.uz/2022/06/06/17/46/RsbZE95fcZ1t7CNZPIScZ9ZWjLJz2v5H_normal.jpg",
+        img5: "https://avesta-news.kz/wp-content/uploads/2020/09/7cef84e7e50c13651e0dc53f31857c05_original.127509.jpeg",
+        img7: "https://cdn.uza.uz/2022/06/06/17/46/RsbZE95fcZ1t7CNZPIScZ9ZWjLJz2v5H_normal.jpg",
     }],
     doctors: [{
         id: 26,
@@ -420,12 +425,14 @@ export const clinics = [{
         onkologiya: "https://img.freepik.com/premium-photo/confident-female-doctor-oncology-in-magnetic-resonance_283617-1620.jpg",
         pulmonologiya: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToj01bHK0xywB7bIy31x83Hkm9nx6dYIb8qrUjdq6aQZJyt3bUd9X66ZQHU9ZoiaggjQA&usqp=CAU",
     }],
-    ClinicRooms11: [{
-        img1: "https://avatars.mds.yandex.net/i?id=b724ec2728c1677bed9ba86848ed968535b2f297-5403234-images-thumbs&n=13",
-        img2: "https://avatars.mds.yandex.net/get-altay/5491685/2a0000017d5bddc8c2ad4dfc0ade4dcc92b8/XXXL",
-        img3: "https://avatars.mds.yandex.net/get-altay/1974402/2a0000016c98e41b5b7c8e854177df81f162/XXXL",
-        img4: "https://avatars.mds.yandex.net/get-altay/4079915/2a00000178c47d93c08adb4396cc143b2482/XXL",
-        img5: "https://avatars.mds.yandex.net/i?id=9bff81f23c6fb50bff96e7c526b383e24d7c5f58-4079503-images-thumbs&n=13",
+    ClinicRooms: [{
+        img1: "https://pbs.twimg.com/media/Ey6tmsQWYAAOg7X.jpg",
+        img6: "https://cdn.uza.uz/2022/06/06/17/46/RsbZE95fcZ1t7CNZPIScZ9ZWjLJz2v5H_normal.jpg",
+        img2: "https://cdn.uza.uz/2020/10/05/05/08/adSAh3kskRinDHFj08o3Qf1uKORCgcJM_normal.jpg",
+        img3: "https://cdn.uza.uz/2021/08/19/12/34/1AezA9J3KUxeA0hTDqrBpJeGGNJwDSIB_normal.jpg",
+        img4: "https://cdn.uza.uz/2022/06/06/17/46/RsbZE95fcZ1t7CNZPIScZ9ZWjLJz2v5H_normal.jpg",
+        img5: "https://avesta-news.kz/wp-content/uploads/2020/09/7cef84e7e50c13651e0dc53f31857c05_original.127509.jpeg",
+        img7: "https://cdn.uza.uz/2022/06/06/17/46/RsbZE95fcZ1t7CNZPIScZ9ZWjLJz2v5H_normal.jpg",
     }],
     doctors: [{
         id: 31,
@@ -487,12 +494,14 @@ export const clinics = [{
         onkologiya: "https://img.freepik.com/premium-photo/confident-female-doctor-oncology-in-magnetic-resonance_283617-1620.jpg",
         pulmonologiya: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToj01bHK0xywB7bIy31x83Hkm9nx6dYIb8qrUjdq6aQZJyt3bUd9X66ZQHU9ZoiaggjQA&usqp=CAU",
     }],
-    ClinicRooms11: [{
-        img1: "https://avatars.mds.yandex.net/i?id=b724ec2728c1677bed9ba86848ed968535b2f297-5403234-images-thumbs&n=13",
-        img2: "https://avatars.mds.yandex.net/get-altay/5491685/2a0000017d5bddc8c2ad4dfc0ade4dcc92b8/XXXL",
-        img3: "https://avatars.mds.yandex.net/get-altay/1974402/2a0000016c98e41b5b7c8e854177df81f162/XXXL",
-        img4: "https://avatars.mds.yandex.net/get-altay/4079915/2a00000178c47d93c08adb4396cc143b2482/XXL",
-        img5: "https://avatars.mds.yandex.net/i?id=9bff81f23c6fb50bff96e7c526b383e24d7c5f58-4079503-images-thumbs&n=13",
+    ClinicRooms: [{
+        img1: "https://pbs.twimg.com/media/Ey6tmsQWYAAOg7X.jpg",
+        img6: "https://cdn.uza.uz/2022/06/06/17/46/RsbZE95fcZ1t7CNZPIScZ9ZWjLJz2v5H_normal.jpg",
+        img2: "https://cdn.uza.uz/2020/10/05/05/08/adSAh3kskRinDHFj08o3Qf1uKORCgcJM_normal.jpg",
+        img3: "https://cdn.uza.uz/2021/08/19/12/34/1AezA9J3KUxeA0hTDqrBpJeGGNJwDSIB_normal.jpg",
+        img4: "https://cdn.uza.uz/2022/06/06/17/46/RsbZE95fcZ1t7CNZPIScZ9ZWjLJz2v5H_normal.jpg",
+        img5: "https://avesta-news.kz/wp-content/uploads/2020/09/7cef84e7e50c13651e0dc53f31857c05_original.127509.jpeg",
+        img7: "https://cdn.uza.uz/2022/06/06/17/46/RsbZE95fcZ1t7CNZPIScZ9ZWjLJz2v5H_normal.jpg",
     }],
     doctors: [{
         id: 36,
@@ -554,12 +563,14 @@ export const clinics = [{
         onkologiya: "https://img.freepik.com/premium-photo/confident-female-doctor-oncology-in-magnetic-resonance_283617-1620.jpg",
         pulmonologiya: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToj01bHK0xywB7bIy31x83Hkm9nx6dYIb8qrUjdq6aQZJyt3bUd9X66ZQHU9ZoiaggjQA&usqp=CAU",
     }],
-    ClinicRooms11: [{
-        img1: "https://avatars.mds.yandex.net/i?id=b724ec2728c1677bed9ba86848ed968535b2f297-5403234-images-thumbs&n=13",
-        img2: "https://avatars.mds.yandex.net/get-altay/5491685/2a0000017d5bddc8c2ad4dfc0ade4dcc92b8/XXXL",
-        img3: "https://avatars.mds.yandex.net/get-altay/1974402/2a0000016c98e41b5b7c8e854177df81f162/XXXL",
-        img4: "https://avatars.mds.yandex.net/get-altay/4079915/2a00000178c47d93c08adb4396cc143b2482/XXL",
-        img5: "https://avatars.mds.yandex.net/i?id=9bff81f23c6fb50bff96e7c526b383e24d7c5f58-4079503-images-thumbs&n=13",
+    ClinicRooms: [{
+        img1: "https://pbs.twimg.com/media/Ey6tmsQWYAAOg7X.jpg",
+        img6: "https://cdn.uza.uz/2022/06/06/17/46/RsbZE95fcZ1t7CNZPIScZ9ZWjLJz2v5H_normal.jpg",
+        img2: "https://cdn.uza.uz/2020/10/05/05/08/adSAh3kskRinDHFj08o3Qf1uKORCgcJM_normal.jpg",
+        img3: "https://cdn.uza.uz/2021/08/19/12/34/1AezA9J3KUxeA0hTDqrBpJeGGNJwDSIB_normal.jpg",
+        img4: "https://cdn.uza.uz/2022/06/06/17/46/RsbZE95fcZ1t7CNZPIScZ9ZWjLJz2v5H_normal.jpg",
+        img5: "https://avesta-news.kz/wp-content/uploads/2020/09/7cef84e7e50c13651e0dc53f31857c05_original.127509.jpeg",
+        img7: "https://cdn.uza.uz/2022/06/06/17/46/RsbZE95fcZ1t7CNZPIScZ9ZWjLJz2v5H_normal.jpg",
     }],
     doctors: [{
         id: 41,
@@ -620,12 +631,14 @@ export const clinics = [{
         onkologiya: "https://static7.depositphotos.com/1194063/684/i/600/depositphotos_6843166-stock-photo-medical-exam.jpg",
         pulmonologiya: "https://aptstore.ru/upload/iblock/f90/f903a1d349d31fdccdec59f5d6af9c22.jpg",
     }],
-    ClinicRooms11: [{
-        img1: "https://avatars.mds.yandex.net/i?id=d4915b45fa26c9ded3dcf2345dd853bf34a3ff82-7662303-images-thumbs&n=13",
-        img2: "https://avatars.mds.yandex.net/i?id=f8c6f688ef46b9e85aee7655e9573582-4571652-images-thumbs&n=13",
-        img3: "https://avatars.mds.yandex.net/i?id=7efce51b1352ab9724d23891e3fa89e958a48e48-7552332-images-thumbs&n=13",
-        img4: "https://mir-s3-cdn-cf.behance.net/project_modules/1400/7bbb4e85763217.5d8533f728d3d.jpg",
-        img5: "https://avatars.mds.yandex.net/i?id=76d4c10de0251a7bf8a89267112ec121-5425154-images-thumbs&n=13",
+    ClinicRooms: [{
+        img1: "https://pbs.twimg.com/media/Ey6tmsQWYAAOg7X.jpg",
+        img6: "https://cdn.uza.uz/2022/06/06/17/46/RsbZE95fcZ1t7CNZPIScZ9ZWjLJz2v5H_normal.jpg",
+        img2: "https://cdn.uza.uz/2020/10/05/05/08/adSAh3kskRinDHFj08o3Qf1uKORCgcJM_normal.jpg",
+        img3: "https://cdn.uza.uz/2021/08/19/12/34/1AezA9J3KUxeA0hTDqrBpJeGGNJwDSIB_normal.jpg",
+        img4: "https://cdn.uza.uz/2022/06/06/17/46/RsbZE95fcZ1t7CNZPIScZ9ZWjLJz2v5H_normal.jpg",
+        img5: "https://avesta-news.kz/wp-content/uploads/2020/09/7cef84e7e50c13651e0dc53f31857c05_original.127509.jpeg",
+        img7: "https://cdn.uza.uz/2022/06/06/17/46/RsbZE95fcZ1t7CNZPIScZ9ZWjLJz2v5H_normal.jpg",
     }],
     doctors: [{
         id: 46,
@@ -686,12 +699,14 @@ export const clinics = [{
         onkologiya: "https://img.freepik.com/premium-photo/confident-female-doctor-oncology-in-magnetic-resonance_283617-1620.jpg",
         pulmonologiya: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToj01bHK0xywB7bIy31x83Hkm9nx6dYIb8qrUjdq6aQZJyt3bUd9X66ZQHU9ZoiaggjQA&usqp=CAU",
     }],
-    ClinicRooms11: [{
-        img1: "https://avatars.mds.yandex.net/i?id=b724ec2728c1677bed9ba86848ed968535b2f297-5403234-images-thumbs&n=13",
-        img2: "https://avatars.mds.yandex.net/get-altay/5491685/2a0000017d5bddc8c2ad4dfc0ade4dcc92b8/XXXL",
-        img3: "https://avatars.mds.yandex.net/get-altay/1974402/2a0000016c98e41b5b7c8e854177df81f162/XXXL",
-        img4: "https://avatars.mds.yandex.net/get-altay/4079915/2a00000178c47d93c08adb4396cc143b2482/XXL",
-        img5: "https://avatars.mds.yandex.net/i?id=9bff81f23c6fb50bff96e7c526b383e24d7c5f58-4079503-images-thumbs&n=13",
+    ClinicRooms: [{
+        img1: "https://pbs.twimg.com/media/Ey6tmsQWYAAOg7X.jpg",
+        img6: "https://cdn.uza.uz/2022/06/06/17/46/RsbZE95fcZ1t7CNZPIScZ9ZWjLJz2v5H_normal.jpg",
+        img2: "https://cdn.uza.uz/2020/10/05/05/08/adSAh3kskRinDHFj08o3Qf1uKORCgcJM_normal.jpg",
+        img3: "https://cdn.uza.uz/2021/08/19/12/34/1AezA9J3KUxeA0hTDqrBpJeGGNJwDSIB_normal.jpg",
+        img4: "https://cdn.uza.uz/2022/06/06/17/46/RsbZE95fcZ1t7CNZPIScZ9ZWjLJz2v5H_normal.jpg",
+        img5: "https://avesta-news.kz/wp-content/uploads/2020/09/7cef84e7e50c13651e0dc53f31857c05_original.127509.jpeg",
+        img7: "https://cdn.uza.uz/2022/06/06/17/46/RsbZE95fcZ1t7CNZPIScZ9ZWjLJz2v5H_normal.jpg",
     }],
     doctors: [{
         id: 51,
@@ -753,12 +768,14 @@ export const clinics = [{
         onkologiya: "https://img.freepik.com/premium-photo/confident-female-doctor-oncology-in-magnetic-resonance_283617-1620.jpg",
         pulmonologiya: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToj01bHK0xywB7bIy31x83Hkm9nx6dYIb8qrUjdq6aQZJyt3bUd9X66ZQHU9ZoiaggjQA&usqp=CAU",
     }],
-    ClinicRooms11: [{
-        img1: "https://avatars.mds.yandex.net/i?id=b724ec2728c1677bed9ba86848ed968535b2f297-5403234-images-thumbs&n=13",
-        img2: "https://avatars.mds.yandex.net/get-altay/5491685/2a0000017d5bddc8c2ad4dfc0ade4dcc92b8/XXXL",
-        img3: "https://avatars.mds.yandex.net/get-altay/1974402/2a0000016c98e41b5b7c8e854177df81f162/XXXL",
-        img4: "https://avatars.mds.yandex.net/get-altay/4079915/2a00000178c47d93c08adb4396cc143b2482/XXL",
-        img5: "https://avatars.mds.yandex.net/i?id=9bff81f23c6fb50bff96e7c526b383e24d7c5f58-4079503-images-thumbs&n=13",
+    ClinicRooms: [{
+        img1: "https://pbs.twimg.com/media/Ey6tmsQWYAAOg7X.jpg",
+        img6: "https://cdn.uza.uz/2022/06/06/17/46/RsbZE95fcZ1t7CNZPIScZ9ZWjLJz2v5H_normal.jpg",
+        img2: "https://cdn.uza.uz/2020/10/05/05/08/adSAh3kskRinDHFj08o3Qf1uKORCgcJM_normal.jpg",
+        img3: "https://cdn.uza.uz/2021/08/19/12/34/1AezA9J3KUxeA0hTDqrBpJeGGNJwDSIB_normal.jpg",
+        img4: "https://cdn.uza.uz/2022/06/06/17/46/RsbZE95fcZ1t7CNZPIScZ9ZWjLJz2v5H_normal.jpg",
+        img5: "https://avesta-news.kz/wp-content/uploads/2020/09/7cef84e7e50c13651e0dc53f31857c05_original.127509.jpeg",
+        img7: "https://cdn.uza.uz/2022/06/06/17/46/RsbZE95fcZ1t7CNZPIScZ9ZWjLJz2v5H_normal.jpg",
     }],
     doctors: [{
         id: 56,
@@ -819,12 +836,14 @@ export const clinics = [{
         onkologiya: "https://static7.depositphotos.com/1194063/684/i/600/depositphotos_6843166-stock-photo-medical-exam.jpg",
         pulmonologiya: "https://aptstore.ru/upload/iblock/f90/f903a1d349d31fdccdec59f5d6af9c22.jpg",
     }],
-    ClinicRooms11: [{
-        img1: "https://avatars.mds.yandex.net/i?id=d4915b45fa26c9ded3dcf2345dd853bf34a3ff82-7662303-images-thumbs&n=13",
-        img2: "https://avatars.mds.yandex.net/i?id=f8c6f688ef46b9e85aee7655e9573582-4571652-images-thumbs&n=13",
-        img3: "https://avatars.mds.yandex.net/i?id=7efce51b1352ab9724d23891e3fa89e958a48e48-7552332-images-thumbs&n=13",
-        img4: "https://mir-s3-cdn-cf.behance.net/project_modules/1400/7bbb4e85763217.5d8533f728d3d.jpg",
-        img5: "https://avatars.mds.yandex.net/i?id=76d4c10de0251a7bf8a89267112ec121-5425154-images-thumbs&n=13",
+    ClinicRooms: [{
+        img1: "https://pbs.twimg.com/media/Ey6tmsQWYAAOg7X.jpg",
+        img6: "https://cdn.uza.uz/2022/06/06/17/46/RsbZE95fcZ1t7CNZPIScZ9ZWjLJz2v5H_normal.jpg",
+        img2: "https://cdn.uza.uz/2020/10/05/05/08/adSAh3kskRinDHFj08o3Qf1uKORCgcJM_normal.jpg",
+        img3: "https://cdn.uza.uz/2021/08/19/12/34/1AezA9J3KUxeA0hTDqrBpJeGGNJwDSIB_normal.jpg",
+        img4: "https://cdn.uza.uz/2022/06/06/17/46/RsbZE95fcZ1t7CNZPIScZ9ZWjLJz2v5H_normal.jpg",
+        img5: "https://avesta-news.kz/wp-content/uploads/2020/09/7cef84e7e50c13651e0dc53f31857c05_original.127509.jpeg",
+        img7: "https://cdn.uza.uz/2022/06/06/17/46/RsbZE95fcZ1t7CNZPIScZ9ZWjLJz2v5H_normal.jpg",
     }],
     doctors: [{
         id: 61,
@@ -885,12 +904,14 @@ export const clinics = [{
         onkologiya: "https://img.freepik.com/premium-photo/confident-female-doctor-oncology-in-magnetic-resonance_283617-1620.jpg",
         pulmonologiya: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToj01bHK0xywB7bIy31x83Hkm9nx6dYIb8qrUjdq6aQZJyt3bUd9X66ZQHU9ZoiaggjQA&usqp=CAU",
     }],
-    ClinicRooms11: [{
-        img1: "https://avatars.mds.yandex.net/i?id=b724ec2728c1677bed9ba86848ed968535b2f297-5403234-images-thumbs&n=13",
-        img2: "https://avatars.mds.yandex.net/get-altay/5491685/2a0000017d5bddc8c2ad4dfc0ade4dcc92b8/XXXL",
-        img3: "https://avatars.mds.yandex.net/get-altay/1974402/2a0000016c98e41b5b7c8e854177df81f162/XXXL",
-        img4: "https://avatars.mds.yandex.net/get-altay/4079915/2a00000178c47d93c08adb4396cc143b2482/XXL",
-        img5: "https://avatars.mds.yandex.net/i?id=9bff81f23c6fb50bff96e7c526b383e24d7c5f58-4079503-images-thumbs&n=13",
+    ClinicRooms: [{
+        img1: "https://pbs.twimg.com/media/Ey6tmsQWYAAOg7X.jpg",
+        img6: "https://cdn.uza.uz/2022/06/06/17/46/RsbZE95fcZ1t7CNZPIScZ9ZWjLJz2v5H_normal.jpg",
+        img2: "https://cdn.uza.uz/2020/10/05/05/08/adSAh3kskRinDHFj08o3Qf1uKORCgcJM_normal.jpg",
+        img3: "https://cdn.uza.uz/2021/08/19/12/34/1AezA9J3KUxeA0hTDqrBpJeGGNJwDSIB_normal.jpg",
+        img4: "https://cdn.uza.uz/2022/06/06/17/46/RsbZE95fcZ1t7CNZPIScZ9ZWjLJz2v5H_normal.jpg",
+        img5: "https://avesta-news.kz/wp-content/uploads/2020/09/7cef84e7e50c13651e0dc53f31857c05_original.127509.jpeg",
+        img7: "https://cdn.uza.uz/2022/06/06/17/46/RsbZE95fcZ1t7CNZPIScZ9ZWjLJz2v5H_normal.jpg",
     }],
     doctors: [{
         id: 66,
@@ -951,12 +972,14 @@ export const clinics = [{
         onkologiya: "https://img.freepik.com/premium-photo/confident-female-doctor-oncology-in-magnetic-resonance_283617-1620.jpg",
         pulmonologiya: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToj01bHK0xywB7bIy31x83Hkm9nx6dYIb8qrUjdq6aQZJyt3bUd9X66ZQHU9ZoiaggjQA&usqp=CAU",
     }],
-    ClinicRooms11: [{
-        img1: "https://avatars.mds.yandex.net/i?id=b724ec2728c1677bed9ba86848ed968535b2f297-5403234-images-thumbs&n=13",
-        img2: "https://avatars.mds.yandex.net/get-altay/5491685/2a0000017d5bddc8c2ad4dfc0ade4dcc92b8/XXXL",
-        img3: "https://avatars.mds.yandex.net/get-altay/1974402/2a0000016c98e41b5b7c8e854177df81f162/XXXL",
-        img4: "https://avatars.mds.yandex.net/get-altay/4079915/2a00000178c47d93c08adb4396cc143b2482/XXL",
-        img5: "https://avatars.mds.yandex.net/i?id=9bff81f23c6fb50bff96e7c526b383e24d7c5f58-4079503-images-thumbs&n=13",
+    ClinicRooms: [{
+        img1: "https://pbs.twimg.com/media/Ey6tmsQWYAAOg7X.jpg",
+        img6: "https://cdn.uza.uz/2022/06/06/17/46/RsbZE95fcZ1t7CNZPIScZ9ZWjLJz2v5H_normal.jpg",
+        img2: "https://cdn.uza.uz/2020/10/05/05/08/adSAh3kskRinDHFj08o3Qf1uKORCgcJM_normal.jpg",
+        img3: "https://cdn.uza.uz/2021/08/19/12/34/1AezA9J3KUxeA0hTDqrBpJeGGNJwDSIB_normal.jpg",
+        img4: "https://cdn.uza.uz/2022/06/06/17/46/RsbZE95fcZ1t7CNZPIScZ9ZWjLJz2v5H_normal.jpg",
+        img5: "https://avesta-news.kz/wp-content/uploads/2020/09/7cef84e7e50c13651e0dc53f31857c05_original.127509.jpeg",
+        img7: "https://cdn.uza.uz/2022/06/06/17/46/RsbZE95fcZ1t7CNZPIScZ9ZWjLJz2v5H_normal.jpg",
     }],
     doctors: [{
         id: 71,
